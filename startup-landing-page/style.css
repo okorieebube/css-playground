@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: red;
+}
+
+.header-container{
+    padding:10px 95px;
+}
+.nav-item{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-social-link{
+    justify-content: flex-end;
+    padding-left: 70%;
+}
+.navbar-nav{
+    width: 100%;
+}
